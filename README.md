@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 ## 🌱 I’m currently learning to Code, mostly Python, but also trying to understand JSON and YAML.
 
-# - 💬 Ask me about what ever you want!
+### - 💬 Ask me about what ever you want!
 
 - ⚡ Fun fact: I stream on Twitch 
 
